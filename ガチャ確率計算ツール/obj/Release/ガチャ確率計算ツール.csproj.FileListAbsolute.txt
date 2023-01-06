@@ -1,0 +1,11 @@
+C:\Users\kamimoto\Desktop\work\tmp\ガチャ確率計算ツール\ガチャ確率計算ツール\ガチャ確率計算ツール\bin\Release\ガチャ確率計算ツール.exe.config
+C:\Users\kamimoto\Desktop\work\tmp\ガチャ確率計算ツール\ガチャ確率計算ツール\ガチャ確率計算ツール\bin\Release\ガチャ確率計算ツール.exe
+C:\Users\kamimoto\Desktop\work\tmp\ガチャ確率計算ツール\ガチャ確率計算ツール\ガチャ確率計算ツール\bin\Release\ガチャ確率計算ツール.pdb
+C:\Users\kamimoto\Desktop\work\tmp\ガチャ確率計算ツール\ガチャ確率計算ツール\ガチャ確率計算ツール\obj\Release\ガチャ確率計算ツール.csproj.AssemblyReference.cache
+C:\Users\kamimoto\Desktop\work\tmp\ガチャ確率計算ツール\ガチャ確率計算ツール\ガチャ確率計算ツール\obj\Release\ガチャ確率計算ツール.csproj.SuggestedBindingRedirects.cache
+C:\Users\kamimoto\Desktop\work\tmp\ガチャ確率計算ツール\ガチャ確率計算ツール\ガチャ確率計算ツール\obj\Release\ガチャ確率計算ツール.Form1.resources
+C:\Users\kamimoto\Desktop\work\tmp\ガチャ確率計算ツール\ガチャ確率計算ツール\ガチャ確率計算ツール\obj\Release\ガチャ確率計算ツール.Properties.Resources.resources
+C:\Users\kamimoto\Desktop\work\tmp\ガチャ確率計算ツール\ガチャ確率計算ツール\ガチャ確率計算ツール\obj\Release\ガチャ確率計算ツール.csproj.GenerateResource.cache
+C:\Users\kamimoto\Desktop\work\tmp\ガチャ確率計算ツール\ガチャ確率計算ツール\ガチャ確率計算ツール\obj\Release\ガチャ確率計算ツール.csproj.CoreCompileInputs.cache
+C:\Users\kamimoto\Desktop\work\tmp\ガチャ確率計算ツール\ガチャ確率計算ツール\ガチャ確率計算ツール\obj\Release\ガチャ確率計算ツール.exe
+C:\Users\kamimoto\Desktop\work\tmp\ガチャ確率計算ツール\ガチャ確率計算ツール\ガチャ確率計算ツール\obj\Release\ガチャ確率計算ツール.pdb
